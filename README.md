@@ -11,6 +11,8 @@ Please take in considerations than this web application is still under active de
 * Edit and  delete your pastes.
 * View all your pastes (for members only)
 * Download codes
+* Embeding Script
+* Printing the paste
 
 ## Getting Started
 
